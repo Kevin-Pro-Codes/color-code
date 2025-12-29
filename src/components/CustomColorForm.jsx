@@ -31,7 +31,7 @@ const CustomColorForm = ({ onAddColor }) => {
           <div className="md:col-span-5">
             <label className="block text-sm font-medium text-gray-700 mb-2">
               Color Picker
-              <span className="text-xs text-gray-500 ml-2">(Click square or type HEX)</span>
+              <span className="text-xs bg-white text-gray-500 ml-2">(Click square or type HEX)</span>
             </label>
             <div className="flex items-center gap-4">
               <div className="flex-shrink-0">
